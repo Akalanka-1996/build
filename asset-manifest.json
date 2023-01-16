@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec6083c4.css",
-    "main.js": "/static/js/main.6626070d.js",
-    "static/js/787.f7b27212.chunk.js": "/static/js/787.f7b27212.chunk.js",
-    "index.html": "/index.html",
-    "main.ec6083c4.css.map": "/static/css/main.ec6083c4.css.map",
-    "main.6626070d.js.map": "/static/js/main.6626070d.js.map",
-    "787.f7b27212.chunk.js.map": "/static/js/787.f7b27212.chunk.js.map"
+    "main.css": "/wp-content/plugins/twc-opex-calculator-offgrid/widget/build/static/css/main.ec6083c4.css",
+    "main.js": "/wp-content/plugins/twc-opex-calculator-offgrid/widget/build/static/js/main.f28ea5c8.js",
+    "static/js/787.f7b27212.chunk.js": "/wp-content/plugins/twc-opex-calculator-offgrid/widget/build/static/js/787.f7b27212.chunk.js",
+    "index.html": "/wp-content/plugins/twc-opex-calculator-offgrid/widget/build/index.html",
+    "main.ec6083c4.css.map": "/wp-content/plugins/twc-opex-calculator-offgrid/widget/build/static/css/main.ec6083c4.css.map",
+    "main.f28ea5c8.js.map": "/wp-content/plugins/twc-opex-calculator-offgrid/widget/build/static/js/main.f28ea5c8.js.map",
+    "787.f7b27212.chunk.js.map": "/wp-content/plugins/twc-opex-calculator-offgrid/widget/build/static/js/787.f7b27212.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec6083c4.css",
-    "static/js/main.6626070d.js"
+    "static/js/main.f28ea5c8.js"
   ]
 }
